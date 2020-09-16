@@ -1,1 +1,2 @@
 # StudenntManagerService
+本人第一次在GitHub发布项目，所以有什么不足之处请谅
