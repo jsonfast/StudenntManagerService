@@ -1,2 +1,3 @@
 # StudenntManagerService
 本人第一次在GitHub发布项目，所以有什么不足之处请谅
+学习相关知识没有多久，如有bug希望各位大佬能够之处互相进步
